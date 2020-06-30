@@ -1,0 +1,11 @@
+name: DHMMining
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.DHMMining.Main
+description: DHM Mining Plugin
+depend: [DHMCore]
+
+commands:
+  smelttoggle:
+    description: Toggle Auto Smelt
+    permission: dhm.mining

@@ -1,0 +1,35 @@
+name: DHMCore
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.DHMCore.Main
+description: DHM Core Plugin
+
+commands:
+  dhmreload:
+    description: Reload DHMCore
+    permission: dhm.admin
+
+permissions:
+  dhm.*:
+    description: Gives access to all DHMCore commands
+    children:
+      dhm.admin: true
+      dhm.report: true
+      dhm.playtime: true
+      dhm.staff: true
+      dhm.mining: true
+  dhm.admin:
+    description: Allows you to reload the plugin
+    default: op
+  dhm.report:
+    description: Allows you to use report command
+    default: op
+  dhm.playtime:
+    description: Allows you to use playtime commands
+    default: op
+  dhm.staff:
+    description: Allows you to use staff command, punish and reports command
+    default: op
+  dhm.mining:
+    description: Allows you to use autosmelt and autopickup
+    default: op

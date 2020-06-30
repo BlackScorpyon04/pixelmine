@@ -1,0 +1,35 @@
+Player: 5000
+Creeper: 30
+Skeleton: 30
+Zombie: 30
+Blaze: 30
+Wither-Skeleton: 30
+Slime: 30
+Magma-Cube: 30
+Pigman: 30
+Guardian: 30
+Horse: 30
+Enderman: 30
+Spider: 30
+Ghast: 30
+Cave-Spider: 30
+Silver-Fish: 30
+Bat: 15
+Witch: 30
+Endermite: 30
+Pig: 30
+Sheep: 30
+Chicken: 30
+Rabbit: 30
+Villager: 30
+Squid: 30
+Wolf: 30
+Mooshroom: 30
+Ocelot: 30
+Cow: 30
+
+HeadName: '&b%type%''s Head'
+HeadLore: '&7&oSell for: &b&o%price%'
+
+players-lose-money: false
+money-lost: 1000

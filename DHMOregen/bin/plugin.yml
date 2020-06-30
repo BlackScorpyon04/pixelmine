@@ -1,0 +1,6 @@
+name: DHMOregen
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.DHMOregen.Main
+description: DHM Oregen Plugin
+depend: [DHMCore]

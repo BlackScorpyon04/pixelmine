@@ -1,0 +1,6 @@
+name: DHMHeads
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.DHMHeads.Main
+description: DHM Heads Plugin
+depend: [DHMCore]

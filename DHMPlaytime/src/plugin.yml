@@ -1,0 +1,14 @@
+name: DHMPlaytime
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.DHMPlaytime.Main
+description: DHM Playtime Plugin
+depend: [DHMCore]
+
+commands:
+  playtime:
+    description: Check Playtime
+    permission: dhm.playtime
+  ptop:
+    description: Check Playtime Top
+    permission: dhm.playtime

@@ -1,0 +1,13 @@
+AutoSmeltGui:
+  Name: '&b&lToggle AutoSmelt'
+
+prefix: '&8[&5DHM&8]'
+mainColor: '&7'
+secondaryColor: '&5'
+
+Messages:
+  no_permission: '&cYou don''t have the right permission to do this'
+  trade_cancelled: '&cTrade Cancelled'
+  trade_accepted: '&aTrade Accepted: $%total%'
+  reload: '&aAvicialyHeads Reloading'
+  uiopen: '&aGui Opened'

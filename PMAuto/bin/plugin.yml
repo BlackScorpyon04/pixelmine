@@ -1,0 +1,10 @@
+name: PMMining
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.PMMining.Main
+description: PixelMine Mining Plugin
+
+commands:
+  smelttoggle:
+    description: Toggle Auto Smelt
+    permission: pmc.access

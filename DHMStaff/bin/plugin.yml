@@ -1,0 +1,20 @@
+name: DHMStaffStaff
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.DHMStaff.Main
+description: DHM Staff Plugin
+depend: [DHMCore]
+
+commands:
+  punish:
+    description: Open Punish Gui
+    permission: dhm.staff
+  staff:
+    description: Use Staff Mode
+    permission: dhm.staff
+  report:
+    description: Open Report Gui
+    permission: dhm.report
+  reports:
+    description: Open Reports Gui
+    permission: dhm.staff

@@ -1,0 +1,14 @@
+name: PMReports
+version: 0.02
+author: Jordan.Mason
+main: me.jordan.PMReports.Main
+description: PixelMine Reports Plugin
+depend: [PMCore]
+
+commands:
+  report:
+    description: Open Report Gui
+    permission: pmc.report
+  reports:
+    description: Open Reports Gui
+    permission: pmc.staff
